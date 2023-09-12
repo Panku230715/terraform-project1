@@ -6,7 +6,7 @@ Bhai step by step chalne ka h apan log ko.
 Step 1 :-
 sabse phele tu git clone krk puri repo apni local ya instance pe le lena.
 Or sirf main.tf file k undr jake tu apni keys define kr dena.
-Template pe meri keys h.
+tf k undr meri keys h.
 
 Step 2 :-
 copy krne k baad ye sare terraform cmd use krna:-
